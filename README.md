@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Alaa Mahmoud 👋
 
-<!--
-**ALaaMahmoudDev/ALaaMahmoudDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Full-Stack Developer | .NET & Angular
 
-Here are some ideas to get you started:
+I'm a Senior Full-Stack Developer with 7+ years of experience building scalable web applications and business solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in designing backend systems with **ASP.NET Core** and building modern, responsive frontend applications with **Angular**.
+
+### 🛠️ Tech Stack
+
+- **Backend:** C#, ASP.NET Core, Web API, Entity Framework Core
+- **Frontend:** Angular, TypeScript, JavaScript, RxJS
+- **Databases:** SQL Server, PostgreSQL
+- **Architecture:** Clean Architecture, SOLID, REST APIs, Microservices
+- **Tools:** Git, Docker, RabbitMQ, Visual Studio, VS Code
+
+### 🚀 What I Focus On
+
+- Building scalable and maintainable applications.
+- Designing clean backend architectures and RESTful APIs.
+- Developing responsive and user-friendly interfaces.
+- Improving application performance and code quality.
+- Learning and exploring modern software engineering practices.
+
+### 🤝 Connect With Me
+
+- **LinkedIn:** https://linkedin.com/in/alaa-mahmoud-88998b3a8/
+- **Portfolio:** https://portfolio-irgf.vercel.app/
+
+---
+
+*Building reliable software, one solution at a time.*
